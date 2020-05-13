@@ -1,4 +1,4 @@
-# Machine Learning notes for Stanford's CS 229 2018 Autumn
+# Notes for Stanford's CS 229 Machine Learning 2018 Autumn
 ##Goal
 This repository aims at summing up all the important notions that are covered in Stanford's CS 229 Machine Learning 2018 autumn course.
 
