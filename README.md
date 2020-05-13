@@ -1,2 +1,13 @@
-# stanford-cs-229-machine-learning-2018-autumn
-Notes for Stanford's CS 229 Machine Learning 2018 Autumn
+# Machine Learning notes for Stanford's CS 229 2018 Autumn
+##Goal
+This repository aims at summing up all the important notions that are covered in Stanford's CS 229 Machine Learning 2018 autumn course.
+
+##Other Resources:
+###Video Source
+https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU 
+
+###Syllabus and Course Schedule
+http://cs229.stanford.edu/syllabus-autumn2018.html
+
+###Problem Set Solutions
+https://github.com/zhixuan-lin/cs229-ps-2018
